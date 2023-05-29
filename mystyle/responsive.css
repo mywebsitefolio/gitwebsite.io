@@ -1,0 +1,188 @@
+@media only screen and (max-width: 600px) {
+    .landing_container {
+        height: 100vh;
+        padding: 30px 16px;
+        background-position: center;
+    }
+
+    .landing_container .landing_container_row {
+        height: 60vh;
+    }
+
+    .landing_container .landing_container_row .title {
+        font-size: 56px;
+    }
+
+    .about_container {
+        height: 50vh;
+        padding: 30px 16px;
+    }
+
+    .about_container .about_container_row {
+        width: 100%;
+    }
+
+    .about_container_row .about_title .line {
+        width: 50px;
+    }
+
+    .about_container .about_container_row .about_content {
+        font-size: 22px;
+    }
+
+    .highlight_container {
+        padding: 30px 16px;
+    }
+
+    marquee {
+        font-size: 28px;
+    }
+
+    .work_container {
+        padding: 80px 16px;
+    }
+
+    .work_container .work_container_detail {
+        width: 100%;
+    }
+
+    .work_header .line {
+        width: 50px;
+    }
+
+    .work_container_detail .work_detail {
+        font-size: 32px;
+    }
+
+    .work_container .work_container_row .work_box {
+        width: 100%;
+    }
+
+    .work_container_row .work_box .work_box_bg {
+        height: auto;
+    }
+
+    .work_box .work_content .work_title {
+        margin-bottom: 4px;
+    }
+
+    .work_box .work_content .work_subtitle {
+        font-size: 32px;
+        margin-bottom: 24px;
+    }
+
+    .work_box .work_content .link {
+        width: 100%;
+        text-align: center;
+    }
+
+    .education_container {
+        padding: 30px 16px;
+    }
+
+    .education_container_row .education_content_title {
+        width: 100%;
+        height: 150px;
+        position: unset;
+    }
+
+    .my_history .line {
+        width: 50px;
+    }
+
+    .education_content_title .my_education {
+        font-size: 32px;
+    }
+
+    .education_container_row .education_content_subtitle {
+        width: 100%;
+    }
+
+    .education_content_subtitle .my_collage {
+        font-size: 32px;
+    }
+
+    .education_content_subtitle .my_edu_detail {
+        display: none;
+    }
+
+    .experience_container {
+        height: auto;
+        padding: 30px 16px;
+    }
+
+    .experience_title .line {
+        width: 50px;
+    }
+
+    .experience_container .experience_subtitle {
+        font-size: 32px;
+    }
+
+    .experience_container .design_experience_container_row {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .design_experience_container_row .experience_box {
+        width: 100%;
+    }
+
+    .tool_container {
+        height: auto;
+        padding: 30px 16px;
+    }
+
+    .tool_container_row {
+        flex-wrap: wrap;
+    }
+
+    .tool_container_row .tool_heading {
+        width: 100%;
+    }
+
+    .tool_title .line {
+        width: 50px;
+    }
+
+    .tool_heading .tool_subtitle {
+        font-size: 32px;
+    }
+
+    .tool_container_row .designing_software_btns {
+        width: 100%;
+    }
+
+    .designing_software_btns .design_software_header {
+        font-size: 32px;
+    }
+
+    .design_software_btns_row button {
+        width: 100%;
+    }
+
+    .talk_container {
+        padding: 30px 16px;
+    }
+
+    .talk_container .lets_talk {
+        font-size: 6em;
+    }
+
+    .footer_contect {
+        padding: 30px 16px;
+    }
+
+    .footer_contect .footer_contect_row {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .footer_contect_row .mail_id_section {
+        width: 100%;
+    } 
+
+    .footer_contect_row .footer_icon {
+        width: 100%;
+    }
+ }
